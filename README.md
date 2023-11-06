@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/anirudhpradhan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="_.anirudh.roshan._/">
+  <a href="https://www.instagram.com/_.anirudh.roshan._/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
