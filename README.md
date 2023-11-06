@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/anirudhpradhan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="_.anirudh.roshan._/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -21,7 +21,12 @@
 </div>
 
 <h1> :hammer_and_wrench: Languages and Tools :</h1>
-    <img src="https://skillicons.dev/icons?i=react,html,css,django,c,c++,python,SQL,MongoDB,git,vscode,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,mongodb,django,figma,git,c,cpp,py,tailwind,bootstrap&theme=dark" />
+<h1> :fire: My Stats :</h1>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhPradhan&theme=dark&background=000000" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=AnirudhPradhan&style=flat-square&color=blue" alt=""/>
+
 <!---
 AnirudhPradhan/AnirudhPradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
