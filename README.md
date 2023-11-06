@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=swoyam2609&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt=""/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhPradhan&theme=dark&background=000000" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoyam2609&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""/>
-<img src="https://komarev.com/ghpvc/?username=AnirudhPradhan&style=flat-square&color=blue" alt=""/>
+<img src="https://visitcount.itsvg.in/api?id=AnirudhPradhan&icon=2&color=1" alt=""/>
 
 <!---
 AnirudhPradhan/AnirudhPradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
