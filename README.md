@@ -7,7 +7,7 @@
 ● 👀 I’m interested in ... AI and Data Science <br>
 ● 🌱 I’m currently learning ... ML <br>
 ● 💞️ I’m looking to collaborate on ... Machine Learning projects and contribution <br>
-● 📫 Looking for assistance and guidance with Machine Learning. <br>
+● 📫 Want to reach out to me: DM me on my social media handles. <br>
  <h1>🌐 Socials: </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/anirudhpradhan/">
