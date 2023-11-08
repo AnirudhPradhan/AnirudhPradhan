@@ -11,13 +11,13 @@
  <h1>🌐 Socials: </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/anirudhpradhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/_.anirudh.roshan._/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-194fd5?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
    <a href="https://www.codechef.com/users/anipradhan04">
     <img src="https://img.shields.io/badge/Codechef-964B00?style=for-the-badge&logo=codechef" alt="Twitter Badge"/>
