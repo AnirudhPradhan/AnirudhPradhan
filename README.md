@@ -25,9 +25,10 @@
     <img src="https://skillicons.dev/icons?i=react,mongodb,django,figma,git,c,cpp,py,tailwind,bootstrap&theme=dark" />
 
 <h1> :fire: My Stats :</h1>
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhPradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""/>
+</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhPradhan&theme=github-compact">
-
 <!---
 AnirudhPradhan/AnirudhPradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
