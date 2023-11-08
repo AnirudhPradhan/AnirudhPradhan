@@ -4,9 +4,9 @@
  </div>
 <h1>💫 About me </h1>
 ● 👋 Hi, I’m @AnirudhPradhan <br>
-● 👀 I’m interested in ... AI <br>
+● 👀 I’m interested in ... AI and Data Science <br>
 ● 🌱 I’m currently learning ... ML <br>
-● 💞️ I’m looking to collaborate on ... Open source projects and contribution <br>
+● 💞️ I’m looking to collaborate on ... Machine Learning projects and contribution <br>
 ● 📫 Looking for assistance and guidance with Machine Learning. <br>
  <h1>🌐 Socials: </h1>
   <div id="badges">
@@ -19,12 +19,15 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://www.codechef.com/users/anipradhan04">
+    <img src="https://img.shields.io/badge/Codechef-964B00?style=for-the-badge&logo=codechef" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <h1>🛠 Languages and tools: </h1>
 <img src="https://skillicons.dev/icons?i=react,mongodb,django,figma,git,c,cpp,py,tailwind,bootstrap&theme=dark" />
 
-<h1>🔥 My stats: </h1>
+<!---<h1>🔥 My stats: </h1>
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhPradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""/>
 </div>
