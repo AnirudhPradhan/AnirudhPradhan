@@ -1,8 +1,8 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/><br>
   <img src="https://visitcount.itsvg.in/api?id=AnirudhPradhan&icon=2&color=1" alt=""/>
-  </div>
- <h1>💫 About me </h1>
+ </div>
+<h1>💫 About me </h1>
 ● 👋 Hi, I’m @AnirudhPradhan <br>
 ● 👀 I’m interested in ... AI <br>
 ● 🌱 I’m currently learning ... ML <br>
@@ -21,10 +21,10 @@
   </a>
 </div>
 
-<h1> :hammer_and_wrench: Languages and Tools :</h1>
-    <img src="https://skillicons.dev/icons?i=react,mongodb,django,figma,git,c,cpp,py,tailwind,bootstrap&theme=dark" />
+<h1>🛠 Languages and tools: </h1>
+<img src="https://skillicons.dev/icons?i=react,mongodb,django,figma,git,c,cpp,py,tailwind,bootstrap&theme=dark" />
 
-<h1> :fire: My Stats :</h1>
+<h1>🔥 My stats: </h1>
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhPradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""/>
 </div>
