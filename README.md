@@ -2,12 +2,13 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/><br>
   <img src="https://visitcount.itsvg.in/api?id=AnirudhPradhan&icon=2&color=1" alt=""/>
  </div>
-<h1>💫 About me </h1>
-● 👋 Hi, I’m @AnirudhPradhan <br>
-● 👀 I’m interested in ... AI and Data Science <br>
-● 🌱 I’m currently learning ... ML <br>
-● 💞️ I’m looking to collaborate on ... Machine Learning projects and contribution <br>
-● 📫 Want to reach out to me: DM me on my social media handles. <br>
+<h1>💫 About Me</h1>
+● 👋 Hi, I’m <b>Anirudh Pradhan</b> <br>
+● 🤖 Passionate about Artificial Intelligence, Data Science, and Computer Vision <br>
+● 🔬 Currently exploring Deep Learning and Research in Vision-based AI models <br>
+● 💞️ Open to collaborations in AI, Computer Vision, and Research-oriented projects <br>
+● 📫 Reach out to me via my social media handles or email — always happy to connect and collaborate! <br>
+
  <h1>🌐 Socials: </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/anirudhpradhan/">
